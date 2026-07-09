@@ -6,15 +6,6 @@ A Power BI dashboard analyzing ~300,000 simulated PhonePe transactions across 10
 
 ---
 
-## Dashboard Preview
-
-*(Add a screenshot: open the .pbix in Power BI Desktop, `File > Export > Export to Image`, or a screen capture of Page 1, and drop it here as `preview.png`.)*
-
-```
-![Dashboard Preview](preview.png)
-```
-
----
 
 ## Data Source
 
